@@ -47,3 +47,4 @@
 \contentsline {subsection}{Speciale}{25}{section*.28}%
 \contentsline {subsection}{Universets Centrum}{26}{section*.28}%
 \contentsline {subsection}{Urtesamler}{26}{section*.28}%
+\contentsline {chapter}{Liste af Riter}{27}{chapter*.29}%

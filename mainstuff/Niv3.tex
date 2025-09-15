@@ -1,28 +1,81 @@
-\chapter*{Niveau 3}
-\addcontentsline{toc}{chapter}{Niveau 3}
-Manipulation er nemt og lige til for dig. Du kan indgyde mod der for krigere til at dræbe fjender ti gange stører end dem selv. Men du kan også ingyde frygt i dine lyttere. Dine ord kan være lige så skarpe som en kniv, og de vil aldrig tro at du overhovedet har gjort dem noget.
+\chapter{Niveau 3}
+
+Du har fundet din niche. En kriger og Magiker uden lige. Ingen kan stå i vejen for dig, og dine magier gør dig til en frygtet modstander på slagmarken. Uanset hvad så vil dine modstandere aldrig stå dig i mod længe.
 
 \begin{table}[H]
     \centering
     \begin{tabular}{|p{0.50\textwidth}|p{0.25\textwidth}|}
     \rowcolor{cerulean!80}\hline
         Evne navn & Pris i XP \\\hline
-        Band & 1 \\\hline
-        Indgyd Paranoia &2\\\hline
-        Indgyd Kærlighed &2\\\hline
-        Rygte Spreder/Samler Niv. 1 &1\\\hline
+        Ekstra Mana Niv 2 &2\\\hline
+        Lær Magi Niv. 3 & 3 \\\hline
+        Meridian Udvidelse Niv. 2 &3\\\hline
+        Udvidet Chakra Niv 1 &2\\\hline
     \end{tabular}
 \end{table}
-\section*{Evne beskrivelse}
-\addcontentsline{toc}{section}{Evne beskrivelse}
 
-\subsection*{Band}\addcontentsline{toc}{subsection}{Band}
-Hvis du bruger en "Indgyd" evne mens du spiller eller fortæller sammen med en eller flere andre barder som også har evnen Band, så vil det kun tage halvt så lang tid at kaste per band medlem (udover dig selv).
+\section{Evne beskrivelse}
 
-\subsection*{Indgyd Paranoia}\addcontentsline{toc}{subsection}{Indgyd Paranoia}
-Barden rollespiller en uhyggelig fortælling eller sang, og alle der lytter, vil føle sig paranoide overfor fortællingens uhyggelige monster/race/person. Effekten varer 30 minutter. Historien skal være 1 minut per person som er påvirket. En person kan kun påvirkes af denne evne en gang per time.
+\input{../Evne-Ordbog/Ekstra Mana/Ekstra Mana Niv. 2.tex}
 
-\subsection*{Indgyd Kærlighed}\addcontentsline{toc}{subsection}{Indgyd Kærlighed}
-Barden rollespiller en romantisk fortælling eller sang, og to personer der lytter, vil føle sig dybt forelsket i hinanden i 30 minutter. Denne tager 6 minutter at bruge. En person kan kun påvirkes af denne evne en gang per time.
+\subsection{Lær Magi Niv. 3}
+Når du tager denne evne må du vælge 1 magi fra følgende liste som du lærer. Når du har valgt denne magi kan dit valg ikke laves om.
 
-\input{../Evne-Ordbog/Rygtespreder/Rygtespreder Niv 1.tex}
+
+\begin{lærmagi*}[Ophæv magi]
+\textbf{Type:} Øjeblikkeligmagi\\
+\textbf{Kategori:} Pegemagi\\
+\textbf{Rite:} Magi, Trække, Magi\\
+\textbf{Effekt:} Ophæver en magisk effekt. Den kan ikke ophæve permanente magiske effekter.\\
+\textbf{Kommando:} "Ophæv magi"\\
+\end{lærmagi*}
+
+
+\begin{lærmagi*}[Spedalsk]
+\textbf{Type:} Sygdom\footnote{Sygdom er en speciel type magi, som primært Nekromantikeren har adgang til. Sygdomme forsvinder IKKE selv hvis ofret dør. Det skal fjernes af en person der kan fjerne sygdomme.}\\
+\textbf{Kategori:} Berøringsmagi\\
+\textbf{Rite:} Trække, Liv, Trække\\
+\textbf{Effekt:} Med denne magi kan du berøre et subjekt som vil blive ude af stand til at kæmpe, løbe eller på anden måde udføre større fysiske bedrifter.\\
+\textbf{Kommando:} Forklar effekten grundigt til subjektet. Husk at forklare hvad en sygdom er.\\
+\end{lærmagi*}
+
+\begin{lærmagi*}[Fred]
+\textbf{Type:} Negativmagi\\
+\textbf{Kategori:} Berøringsmagi\\
+\textbf{Rite:} Liv, Magi, Give\\
+\textbf{Effekt:} Personen kan ikke angribe dig den næste time\\
+\textbf{Kommando:} Forklar effekten grundigt\\
+\end{lærmagi*}
+
+\begin{lærmagi*}[Dræn liv]
+\textbf{Type:} Øjeblikkeligmagi\\
+\textbf{Kategori:} Berøringsmagi\\
+\textbf{Rite:} Trække, Liv, Give, Død, Give, Liv\\
+\textbf{Effekt:} Et subjekt tager 5 skade. Magusen genvinder 5 liv.\\
+\textbf{Kommando:} ”Dræn liv, 5 skade”\\
+\end{lærmagi*}
+
+\begin{lærmagi*}[Jordens barrier]
+\textbf{Type:} -\\
+\textbf{Kategori:} Områdemagi\\
+\textbf{Rite:} Jord, Give, Bevægelse, Give, Magi.\\
+\textbf{Ingredienser:} En pose med Gryn\\
+\textbf{Effekt:} Du kan tegne en cirkel eller linje med radius eller længe på maksimalt 2 meter. Folk kan ikke træde igennem denne barriere, og pile vil ikke kunne give skade igennem. Pistol skud vil dog stadig give skade.\\
+\textbf{Kommando:} "Jordens skjold"\\
+\end{lærmagi*}
+
+\begin{lærmagi*}[Arkanisk Beskyttelse]
+\textbf{Type:} Positivmagi\\
+\textbf{Kategori:} Kan kun bruges på dig selv.\\
+\textbf{Rite:} Magi, Give, Liv, Give, Magi, Bevælgese, Liv\\
+\textbf{Effekt:} Du bliver immun overfor 1 ikke skadende magi. Denne magi stopper hvis den opsuger en magi eller der går 30 minutter. Hvis denne magi opsuger en anden magi vil du genvinde 2 mana.\\
+\textbf{Kommando:} Forklar effekten grundig\\
+\end{lærmagi*}
+
+
+\subsection{Meridian Udvidelse Niv. 2}
+Når du kaster magier som du har lært fra evnen “Lær magi Niv. 2” koster de kun halvt så meget Mana. (Rundet OP til nærmeste hele tal.)
+
+\subsection{Udvidet Chakra Niv 1}
+Når du vælger denne evne må du vælge en magi fra “Lær magi Niv 1”. Du kan kaste denne magi som om du havde valgt da du tog evnen. Denne nye magi er også påvirket “Meridian Udvidelse Niv 1”.
+

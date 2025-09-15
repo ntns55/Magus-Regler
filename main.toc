@@ -24,7 +24,7 @@
 \contentsline {subsection}{Udvidet Chakra Niv 1}{17}{subsection*.24}%
 \contentsline {chapter}{\numberline {5}Niveau 4}{18}{chapter.5}%
 \contentsline {section}{Evne beskrivelse}{18}{section*.26}%
-\contentsline {subsection}{Ekstra LP Niv. 1}{18}{subsection*.27}%
+\contentsline {subsection}{Ekstra LP Niv. 2}{18}{subsection*.27}%
 \contentsline {subsection}{Lær Magi Niv. 4}{18}{subsection*.28}%
 \contentsline {subsection}{Magiens Hylster}{20}{subsection*.29}%
 \contentsline {subsection}{Magisk Beskyttelse}{20}{subsection*.30}%

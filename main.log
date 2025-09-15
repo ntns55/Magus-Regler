@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  15 SEP 2025 19:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  15 SEP 2025 21:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1447,7 +1447,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--73
 
 [17]
 Kapitel 5.
-(../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 1.tex)
+(../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 2.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 2--21
 
  []
@@ -1659,18 +1659,18 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: ACC6A3312842925B98F5D787D4587CF8;6911.
+(rerunfilecheck)             Checksum: A431536759D200358DEFB072BEADE23C;6911.
  ) 
 Here is how much of TeX's memory you used:
- 37160 strings out of 468149
- 742756 string characters out of 5431082
+ 37164 strings out of 468149
+ 742934 string characters out of 5431082
  1203948 words of memory out of 5000000
- 64841 multiletter control sequences out of 15000+600000
+ 64844 multiletter control sequences out of 15000+600000
  687449 words of font info for 142 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  121i,17n,124p,910b,710s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (41 pages, 13001945 bytes).
+Output written on main.pdf (41 pages, 13001942 bytes).
 PDF statistics:
  663 PDF objects out of 1000 (max. 8388607)
  99 named destinations out of 1000 (max. 500000)

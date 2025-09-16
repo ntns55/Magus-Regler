@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1758053243.11383 "c:/Users/niels/Documents/GitHub/Magus-Regler/main.tex" "main.pdf" "main" 1758053249.03693 0
+["pdflatex"] 1758053290.14049 "c:/Users/niels/Documents/GitHub/Magus-Regler/main.tex" "main.pdf" "main" 1758053294.11384 0
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 1.tex" 1757946765 54 89dd3a85b9d7c5123617a806108ebc52 ""
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 2.tex" 1757946765 54 2af0a73ff058b8c72deabeef54f7774b ""
   "../Evne-Ordbog/Ekstra Mana/Ekstra Mana Niv. 1.tex" 1757882266 66 99e63486976c484aa738f12fe82c4695 ""
@@ -295,13 +295,13 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/niels/Documents/GitHub/Magus-Regler/main.tex" 1757888896 1846 b1e0842b419abb58ad67982b06c7f9d7 ""
-  "main.aux" 1758053248 6109 3cf7917997b8c1165020ef102ffc788e "pdflatex"
-  "main.out" 1758053248 6911 a431536759d200358defb072beade23c "pdflatex"
+  "main.aux" 1758053293 6109 3cf7917997b8c1165020ef102ffc788e "pdflatex"
+  "main.out" 1758053293 6911 a431536759d200358defb072beade23c "pdflatex"
   "main.tex" 1757888896 1846 b1e0842b419abb58ad67982b06c7f9d7 ""
-  "main.toc" 1758053248 3163 5834999982d10b277df1f9823dd8d060 "pdflatex"
+  "main.toc" 1758053293 3163 5834999982d10b277df1f9823dd8d060 "pdflatex"
   "mainstuff/Indledning.tex" 1757888390 2560 942549242a752ff12c19f8ac1143c92f ""
   "mainstuff/Niv1.tex" 1757887242 3264 560804bb090715ebdaf3cc17a26fd3c8 ""
-  "mainstuff/Niv2.tex" 1757953479 3313 f91ed9a0f6dd409daa516f125910bb58 ""
+  "mainstuff/Niv2.tex" 1758053290 3385 ff792b2967c722a1b0a19f97d057f1eb ""
   "mainstuff/Niv3.tex" 1757956413 3683 5ee60adb5abd8719a91d39b0eca58cd1 ""
   "mainstuff/Niv4.tex" 1757965509 5387 4c5da7e1f878190dbb84847723cd6938 ""
   "setup/Pictures/A01.C01.01_Front_Billede.png" 1754339026 6403955 f084c9143d1fcc3045f3c66faf856f1d ""

@@ -26,25 +26,24 @@
 \contentsline {section}{Evne beskrivelse}{18}{section*.26}%
 \contentsline {subsection}{Ekstra LP Niv. 2}{18}{subsection*.27}%
 \contentsline {subsection}{Lær Magi Niv. 4}{18}{subsection*.28}%
-\contentsline {subsection}{Magiens Hylster}{20}{subsection*.29}%
+\contentsline {subsection}{Magiens Hylster}{19}{subsection*.29}%
 \contentsline {subsection}{Magisk Beskyttelse}{20}{subsection*.30}%
-\contentsline {subsection}{Meridian Udvidelse Niv. 3}{21}{subsection*.31}%
-\contentsline {subsection}{Udvidet Chakra Niv. 2}{21}{subsection*.32}%
-\contentsline {chapter}{\numberline {6}Generelle evner}{22}{chapter.6}%
-\contentsline {section}{Evne beskrivelse}{23}{section*.34}%
-\contentsline {subsection}{6. sans Niv. 1}{23}{subsection*.35}%
-\contentsline {subsection}{6. sans Niv. 2}{23}{subsection*.36}%
-\contentsline {subsection}{Bonk}{23}{subsection*.37}%
-\contentsline {subsection}{Bære person}{23}{subsection*.38}%
-\contentsline {subsection}{Førstehjælp}{24}{subsection*.39}%
-\contentsline {subsection}{Lave Artefakter}{24}{subsection*.40}%
-\contentsline {subsection}{Læse og skrive}{27}{subsection*.41}%
-\contentsline {subsection}{Minearbejder}{27}{subsection*.42}%
-\contentsline {subsection}{Påfør gift}{27}{subsection*.43}%
-\contentsline {subsection}{Slagsbror Niv. 1}{28}{subsection*.44}%
-\contentsline {subsection}{Slagsbror Niv. 2}{28}{subsection*.45}%
-\contentsline {subsection}{Slagsbror Niv. 2}{28}{subsection*.46}%
-\contentsline {subsection}{Speciale}{28}{subsection*.47}%
-\contentsline {subsection}{Universets Centrum}{29}{subsection*.48}%
-\contentsline {subsection}{Urtesamler}{29}{subsection*.49}%
-\contentsline {chapter}{Liste af Riter}{30}{chapter*.50}%
+\contentsline {subsection}{Meridian Udvidelse Niv. 3}{20}{subsection*.31}%
+\contentsline {subsection}{Udvidet Chakra Niv. 2}{20}{subsection*.32}%
+\contentsline {chapter}{\numberline {6}Generelle evner}{21}{chapter.6}%
+\contentsline {section}{Evne beskrivelse}{21}{section*.34}%
+\contentsline {subsection}{6. sans}{21}{subsection*.35}%
+\contentsline {subsection}{Bonk}{22}{subsection*.36}%
+\contentsline {subsection}{Bære person}{22}{subsection*.37}%
+\contentsline {subsection}{Førstehjælp}{22}{subsection*.38}%
+\contentsline {subsection}{Læse og skrive}{22}{subsection*.39}%
+\contentsline {subsection}{Minearbejder}{23}{subsection*.40}%
+\contentsline {subsection}{Påfør gift}{23}{subsection*.41}%
+\contentsline {subsection}{Slagsbror Niv. 1}{23}{subsection*.42}%
+\contentsline {subsection}{Slagsbror Niv. 2}{23}{subsection*.43}%
+\contentsline {subsection}{Slagsbror Niv. 3}{24}{subsection*.44}%
+\contentsline {subsection}{Speciale}{24}{subsection*.45}%
+\contentsline {subsection}{Universets Centrum}{24}{subsection*.46}%
+\contentsline {subsection}{Universets Ydre}{24}{subsection*.47}%
+\contentsline {subsection}{Urtesamler}{24}{subsection*.48}%
+\contentsline {chapter}{Liste af Riter}{26}{chapter*.49}%

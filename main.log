@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  8 NOV 2025 14:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  10 NOV 2025 21:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1473,12 +1473,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--49
 
 [20]
 Kapitel 6.
-(../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--32
+(../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex (../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1Desc.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-(../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex (../Evne-Ordbog/GenerelleEvner/Evner/BonkDesc.tex))
+) (../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex (../Evne-Ordbog/GenerelleEvner/Evner/BonkDesc.tex))
 Underfull \hbox (badness 10000) in paragraph at lines 1--34
 
  []
@@ -1500,7 +1500,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--42
 
 (../Evne-Ordbog/GenerelleEvner/Evner/Minearbejder.tex (../Evne-Ordbog/GenerelleEvner/Evner/MinearbejderDesc.tex
 
-[22])) (../Evne-Ordbog/GenerelleEvner/Evner/Påfør Gift.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 2.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex
+[22])) (../Evne-Ordbog/GenerelleEvner/Evner/Påfør Gift.tex (../Evne-Ordbog/GenerelleEvner/Evner/Påfør GiftDesc.tex)) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 2.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex
 
 [23])
 Underfull \hbox (badness 10000) in paragraph at lines 3--54
@@ -1616,15 +1616,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 792F559A299A65DDD8FCEDCA4F156B90;6703.
  ) 
 Here is how much of TeX's memory you used:
- 37197 strings out of 468149
- 744125 string characters out of 5431082
+ 37209 strings out of 468149
+ 744809 string characters out of 5431082
  1203948 words of memory out of 5000000
- 64860 multiletter control sequences out of 15000+600000
+ 64866 multiletter control sequences out of 15000+600000
  687449 words of font info for 142 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  121i,17n,124p,910b,710s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (37 pages, 12992118 bytes).
+Output written on main.pdf (37 pages, 12992116 bytes).
 PDF statistics:
  655 PDF objects out of 1000 (max. 8388607)
  107 named destinations out of 1000 (max. 500000)

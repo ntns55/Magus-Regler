@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1763031315.40205 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Magus-Regler/main.tex" "main.pdf" "main" 1763031321.37977 0
+["pdflatex"] 1763042778.41734 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Magus-Regler/main.tex" "main.pdf" "main" 1763042784.74635 0
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 1.tex" 1757923834 54 89dd3a85b9d7c5123617a806108ebc52 ""
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 2.tex" 1757923998 54 2af0a73ff058b8c72deabeef54f7774b ""
   "../Evne-Ordbog/Ekstra Mana/Ekstra Mana Niv. 1.tex" 1757917312 66 99e63486976c484aa738f12fe82c4695 ""
@@ -304,15 +304,15 @@
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Magus-Regler/main.tex" 1757917833 1846 b1e0842b419abb58ad67982b06c7f9d7 ""
-  "main.aux" 1763031321 6123 c5931677a1360dc076a4680e8edc2e85 "pdflatex"
-  "main.out" 1763031321 6703 792f559a299a65ddd8fcedca4f156b90 "pdflatex"
+  "main.aux" 1763042784 6123 c5931677a1360dc076a4680e8edc2e85 "pdflatex"
+  "main.out" 1763042784 6703 792f559a299a65ddd8fcedca4f156b90 "pdflatex"
   "main.tex" 1757917833 1846 b1e0842b419abb58ad67982b06c7f9d7 ""
-  "main.toc" 1763031321 3142 f9f53940a2b844caffd6d488df563bea "pdflatex"
+  "main.toc" 1763042784 3142 f9f53940a2b844caffd6d488df563bea "pdflatex"
   "mainstuff/Indledning.tex" 1762864597 2589 459a8fbfe3939293b0c6513ab10fefad ""
   "mainstuff/Niv1.tex" 1763031313 3267 86cb11807af82edac80ac2cfe300ed8b ""
-  "mainstuff/Niv2.tex" 1762864597 3068 c34d16f148da5f6db27e4a57324799c5 ""
-  "mainstuff/Niv3.tex" 1762760417 3232 7167ffb7cca3e622372ba30554a34d7f ""
-  "mainstuff/Niv4.tex" 1762760417 4647 cdc370b97bd68fbc3b758effe00342e9 ""
+  "mainstuff/Niv2.tex" 1763041561 3075 70b7cf52ca11ac62b79625cb57d2d08b ""
+  "mainstuff/Niv3.tex" 1763042403 3231 d4608971c747fe51e4a1b9169bfe4936 ""
+  "mainstuff/Niv4.tex" 1763042776 4649 787f779aaf0138c889e47adb0237a07c ""
   "setup/Pictures/A01.C01.01_Front_Billede.png" 1757917833 6403955 f084c9143d1fcc3045f3c66faf856f1d ""
   (generated)
   "main.aux"
